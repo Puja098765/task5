@@ -49,3 +49,58 @@ footer {
     margin: 20px auto;
     border: 3px solid #38bdf8;
 }
+/* =========================
+   CONTACT FORM STYLES
+   ========================= */
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.contact-form {
+    background-color: #ffffff;
+    padding: 25px;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    border: 2px solid #e2e8f0;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #38bdf8;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1e293b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #38bdf8;
+    color: #1e293b;
+}
