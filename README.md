@@ -1,8 +1,8 @@
-# Task 4: Simple Multi-Page Website
+# Task 5: Contact Form with HTML Validation
 
 ## 📌 Project Overview
-This project demonstrates the creation of a **simple multi-page website** using **HTML5** and **CSS3**.  
-The goal of this task is to understand how multiple web pages are connected using **relative paths**, while maintaining a **consistent layout and navigation system** across all pages.
+This task focuses on building a **contact form** using **HTML5 and CSS3** with **built-in HTML validation**.  
+The form validates user input on the **client side** without using JavaScript, ensuring a clean, accessible, and user-friendly interface.
 
 ---
 
@@ -15,14 +15,14 @@ The goal of this task is to understand how multiple web pages are connected usin
 ---
 
 ## 🎯 Task Objective
-- Create multiple HTML pages (Home, About, Contact)
-- Implement proper navigation between pages
-- Use relative paths for linking
-- Maintain consistent header and footer
-- Reuse a single CSS file across all pages
-- Highlight the active navigation link
-- Organize files using a clean folder structure
+- Create a contact form using semantic HTML
+- Apply proper input types (`text`, `email`, `tel`)
+- Use HTML5 validation attributes
+- Improve accessibility using labels
+- Style the form using CSS
+- Test validation without JavaScript
 
 ---
 
-## 📂 Project Folder Structure
+## 📂 Project Structure
+
